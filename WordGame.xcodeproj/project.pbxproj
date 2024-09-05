@@ -14,6 +14,7 @@
 		707FD0832B44796500AE1645 /* WordGameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 707FD0822B44796500AE1645 /* WordGameTests.swift */; };
 		707FD08D2B44796500AE1645 /* WordGameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 707FD08C2B44796500AE1645 /* WordGameUITests.swift */; };
 		707FD08F2B44796500AE1645 /* WordGameUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 707FD08E2B44796500AE1645 /* WordGameUITestsLaunchTests.swift */; };
+		707FD09E2B448DDF00AE1645 /* 5_letter_words.txt in Resources */ = {isa = PBXBuildFile; fileRef = 707FD09D2B448DDF00AE1645 /* 5_letter_words.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		707FD0882B44796500AE1645 /* WordGameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WordGameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		707FD08C2B44796500AE1645 /* WordGameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordGameUITests.swift; sourceTree = "<group>"; };
 		707FD08E2B44796500AE1645 /* WordGameUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordGameUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		707FD09D2B448DDF00AE1645 /* 5_letter_words.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 5_letter_words.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				707FD0712B44795B00AE1645 /* WordGameApp.swift */,
 				707FD0732B44795B00AE1645 /* ContentView.swift */,
+				707FD09D2B448DDF00AE1645 /* 5_letter_words.txt */,
 				707FD0752B44796400AE1645 /* Assets.xcassets */,
 				707FD0772B44796400AE1645 /* Preview Content */,
 			);
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				707FD0792B44796400AE1645 /* Preview Assets.xcassets in Resources */,
+				707FD09E2B448DDF00AE1645 /* 5_letter_words.txt in Resources */,
 				707FD0762B44796400AE1645 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
